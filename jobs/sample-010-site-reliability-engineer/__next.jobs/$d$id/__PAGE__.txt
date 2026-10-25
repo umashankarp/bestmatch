@@ -1,0 +1,37 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/2v3m_mfiunpfv.js"
+3:"PreferencesProvider"
+4:I[36089,["$2"],"$3"]
+5:I[45678,["$2"],"Navbar"]
+6:I[39756,["$2"],"default"]
+7:I[37457,["$2"],"default"]
+8:I[22016,["$2"],""]
+9:I[13642,["$2"],"Footer"]
+12:"/_next/static/chunks/1159ncuwf2n97.js"
+13:I[11039,["$2","$12"],"JobDetail"]
+14:I[97367,["$2"],"OutletBoundary"]
+15:"$Sreact.suspense"
+18:"ViewportBoundary"
+19:I[97367,["$2"],"$18"]
+1a:"MetadataBoundary"
+1b:I[97367,["$2"],"$1a"]
+:HL["/_next/static/chunks/0fxi_h-xzasxo.css","style"]
+:HL["/_next/static/chunks/2c4bwfhtc0ols.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap","style"]
+b:X
+e:X
+e:C
+11:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L13",null,{"job":{"id":"sample-010-site-reliability-engineer","title":"Site Reliability Engineer","company":"Ironclad Networks","location":"Seattle, WA","workMode":"hybrid","employmentType":"full-time","seniority":"senior","industry":"Telecommunications","skills":["linux","kubernetes","python","aws"],"preferredSkills":["terraform","go"],"minExperience":5,"maxExperience":10,"salaryMin":155000,"salaryMax":190000,"currency":"USD","responsibilities":["Define SLOs and run incident response","Reduce toil with automation"],"description":"Ironclad Networks is hiring a Site Reliability Engineer. This is illustrative sample content for demonstrating the matching engine; it is not a real vacancy.","postedAt":"2026-09-30T09:00:00Z","source":"Sample Dataset","applyUrl":"https://example.com/careers/ironclad-networks/site-reliability-engineer","isSample":true}}],[["$","script","script-0",{"src":"/_next/static/chunks/1159ncuwf2n97.js","async":true}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":"$@17","v":null,"s":"$b"}}]]
+f:[["children",{"s":{"n":"id","t":"d","k":"sample-010-site-reliability-engineer","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@10","v":"$e","s":"$b"},"c":"$Q11"}]]
+c:[["children",{"s":"jobs","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@d","v":"$e","s":"$b"},"c":"$Qf"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fxi_h-xzasxo.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/2c4bwfhtc0ols.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2v3m_mfiunpfv.js","async":true}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=JSON.parse(localStorage.getItem('jobfinder:v2:theme')||'\"auto\"');var d=t==='dark'||(t!=='light'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.setAttribute('data-bs-theme',d?'dark':'light');}catch(e){}})();"}}]]}],["$","body",null,{"className":"d-flex flex-column min-vh-100","children":["$","$L4",null,{"children":[["$","a",null,{"className":"visually-hidden-focusable position-absolute p-2 bg-body","href":"#main","children":"Skip to content"}],["$","$L5",null,{}],["$","main",null,{"id":"main","className":"flex-grow-1","children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[["$","div",null,{"className":"container-xxl py-5 text-center","children":[["$","h1",null,{"className":"h3","children":"Page not found"}],["$","p",null,{"className":"text-body-secondary","children":"That job or page does not exist."}],["$","$L8",null,{"href":"/","className":"btn btn-primary","children":"Back to job search"}]]}],[]]}]}],["$","$L9",null,{}]]}]}]]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Site Reliability Engineer at Ironclad Networks · JobFinder"}],["$","meta","1",{"name":"description","content":"A static job-matching site: enter your skills and preferences, get ranked results with match percentages. Demo data only."}]]}]}],null]}],null]}],"p":"$@1c","v":null,"s":"$b"}},"a":"$@1d","u":"$@1e","b":"RlgbFp5EsIF5F-5ISKE5X"}
+16:null
+b:300
+1e:true
+b:C
+1d:0
+10:"$undefined"
+d:"$undefined"
+a:"$undefined"
+1c:"$undefined"
+17:"$undefined"

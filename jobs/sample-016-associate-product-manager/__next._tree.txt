@@ -1,0 +1,7 @@
+:HL["/_next/static/chunks/0fxi_h-xzasxo.css","style"]
+:HL["/_next/static/chunks/2c4bwfhtc0ols.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"id","t":"d","k":"sample-016-associate-product-manager","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"jobs","h":131168,"c":"$Q2"}]]
+0:{"b":"RlgbFp5EsIF5F-5ISKE5X","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

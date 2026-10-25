@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/2v3m_mfiunpfv.js"
+3:"PreferencesProvider"
+4:I[36089,["$2"],"$3"]
+5:I[45678,["$2"],"Navbar"]
+6:I[39756,["$2"],"default"]
+7:I[37457,["$2"],"default"]
+8:I[22016,["$2"],""]
+9:I[13642,["$2"],"Footer"]
+10:I[97367,["$2"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[97367,["$2"],"$14"]
+16:"MetadataBoundary"
+17:I[97367,["$2"],"$16"]
+:HL["/_next/static/chunks/0fxi_h-xzasxo.css","style"]
+:HL["/_next/static/chunks/2c4bwfhtc0ols.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap","style"]
+b:X
+e:X
+e:C
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"container-xxl py-5 text-center","children":[["$","h1",null,{"className":"h3","children":"Page not found"}],["$","p",null,{"className":"text-body-secondary","children":"That job or page does not exist."}],["$","$L8",null,{"href":"/","className":"btn btn-primary","children":"Back to job search"}]]}],null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$b"}}]]
+c:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@d","v":"$e","s":"$b"},"c":"$Qf"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0fxi_h-xzasxo.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/2c4bwfhtc0ols.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/2v3m_mfiunpfv.js","async":true}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":""}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=JSON.parse(localStorage.getItem('jobfinder:v2:theme')||'\"auto\"');var d=t==='dark'||(t!=='light'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.setAttribute('data-bs-theme',d?'dark':'light');}catch(e){}})();"}}]]}],["$","body",null,{"className":"d-flex flex-column min-vh-100","children":["$","$L4",null,{"children":[["$","a",null,{"className":"visually-hidden-focusable position-absolute p-2 bg-body","href":"#main","children":"Skip to content"}],["$","$L5",null,{}],["$","main",null,{"id":"main","className":"flex-grow-1","children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[["$","div",null,{"className":"container-xxl py-5 text-center","children":[["$","h1",null,{"className":"h3","children":"Page not found"}],["$","p",null,{"className":"text-body-secondary","children":"That job or page does not exist."}],["$","$L8",null,{"href":"/","className":"btn btn-primary","children":"Back to job search"}]]}],[]]}]}],["$","$L9",null,{}]]}]}]]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"JobFinder – match jobs to your skills"}],["$","meta","1",{"name":"description","content":"A static job-matching site: enter your skills and preferences, get ranked results with match percentages. Demo data only."}]]}]}],null]}],null]}],"p":"$@18","v":null,"s":"$b"}},"a":"$@19","u":"$@1a","b":"RlgbFp5EsIF5F-5ISKE5X"}
+12:null
+b:300
+1a:true
+b:C
+19:0
+d:"$undefined"
+a:"$undefined"
+18:"$undefined"
+13:"$undefined"
