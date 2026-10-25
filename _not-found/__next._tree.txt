@@ -1,6 +1,6 @@
-:HL["/bestmatch/_next/static/chunks/0fxi_h-xzasxo.css","style"]
-:HL["/bestmatch/_next/static/chunks/2c4bwfhtc0ols.css","style"]
+:HL["/_next/static/chunks/0fxi_h-xzasxo.css","style"]
+:HL["/_next/static/chunks/2c4bwfhtc0ols.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600;700&display=swap","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"QzoIqv859cCentrv4fNqk","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"qB160k_YNkeSmENXWDxtO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
